@@ -12,4 +12,4 @@ wget mileyrespect.info (index.html)
         |
         script-js - calls WAU_small()
             |
-            + wget http://widgets.amung.us/small.js (this is probably the payload)
+            + wget widgets.amung.us/small.js (this is probably the payload)
