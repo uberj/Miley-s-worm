@@ -1,3 +1,4 @@
+<text>
 let's map this thing out
 
 wget mileyrespect.info (index.html)
@@ -19,3 +20,4 @@ wget mileyrespect.info (index.html)
             + wget widgets.amung.us/small.js (not paylod. it's a click counter.)
                 |
                 + wget jk.js
+</text>
