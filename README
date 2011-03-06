@@ -1,0 +1,15 @@
+let's map this thing out
+
+wget mileyrespect.info (index.html)
+|
++-iframe
+    |
+    +-wget mileyrespect.info/video.php
+        |
+        iframe
+        |   |
+        +   +wget mileyrespect.info/widget.php (there are some fun tags in this one)
+        |
+        script-js - calls WAU_small()
+            |
+            + wget http://widgets.amung.us/small.js (this is probably the payload)
