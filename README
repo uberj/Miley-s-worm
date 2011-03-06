@@ -8,7 +8,11 @@ wget mileyrespect.info (index.html)
         |
         iframe
         |   |
-        +   +wget mileyrespect.info/widget.php (there are some fun tags in this one)
+        +   +-wget mileyrespect.info/widget.php (there are some fun tags in this one)
+        |       |
+        +       +-line 3 facebook "overflow" iframe
+        |           |
+        +           +- http://www.facebook.com/plugins/like.php?href=http://mileyrespect.info/
         |
         script-js - calls WAU_small()
             |
