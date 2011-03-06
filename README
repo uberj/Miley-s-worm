@@ -12,7 +12,7 @@ wget mileyrespect.info (index.html)
         |       |
         +       +-line 3 facebook "overflow" iframe
         |           |
-        +           +- http://www.facebook.com/plugins/like.php?href=http://mileyrespect.info/
+        +           +- www.facebook.com/plugins/like.php?href=http://mileyrespect.info/
         |
         script-js - calls WAU_small()
             |
