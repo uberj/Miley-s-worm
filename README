@@ -4,7 +4,7 @@ wget mileyrespect.info (index.html)
 |
 +-iframe
     |
-    +-wget mileyrespect.info/video.php
+    +-wget mileyrespect.info/video.php - line 3 = hmmm
         |
         iframe
         |   |
@@ -12,4 +12,6 @@ wget mileyrespect.info (index.html)
         |
         script-js - calls WAU_small()
             |
-            + wget widgets.amung.us/small.js (this is probably the payload)
+            + wget widgets.amung.us/small.js (not paylod. it's a click counter.)
+                |
+                + wget jk.js
